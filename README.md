@@ -1,0 +1,1 @@
+photobank-prod-console-commands
